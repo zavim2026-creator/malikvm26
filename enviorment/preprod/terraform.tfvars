@@ -5,6 +5,13 @@ rg_name = {
     name     = "mahi-rg"
     location = "south Africa north"
   }
+
+rg2 = {
+
+    name     = "mahi-rg2"
+    location = "south Africa north"
+  }
+
 }
 
 vnets = {
