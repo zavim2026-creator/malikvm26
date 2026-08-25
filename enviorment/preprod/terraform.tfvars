@@ -6,11 +6,6 @@ rg_name = {
     location = "south Africa north"
   }
 
-rg2 = {
-
-    name     = "mahi-rg2"
-    location = "south Africa north"
-  }
 
 }
 
