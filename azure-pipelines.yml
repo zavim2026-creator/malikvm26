@@ -1,0 +1,12 @@
+trigger: none
+
+pool:
+  name: zavi-agent-pool
+
+steps:
+- powershell: |
+    Write-Host "Hello from Self Hosted Agent"
+    hostname
+    whoami
+    Get-Location
+  displayName: "Test Self Hosted Agent"
